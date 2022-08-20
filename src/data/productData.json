@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook",
+    "description": "Macbook 205 model with high performance.",
+    "price": "$1000",
+    "inventoryDate": "20-08-2022"
+  },
+  {
+    "id": 2,
+    "name": "Rayes Alpha",
+    "description": "Hands-free, Hads on music experience.",
+    "price": "3500",
+    "inventoryDate": "21-08-2022"
+  },
+  {
+    "id": 3,
+    "name": "Rayes Z30",
+    "description": "Macbook 205 model with high performance.",
+    "price": "$1000",
+    "inventoryDate": "22-08-2022"
+  },
+  {
+    "id": 4,
+    "name": "Rayes X30",
+    "description": "Macbook 205 model with high performance.",
+    "price": "$1000",
+    "inventoryDate": "23-08-2022"
+  },
+  {
+    "id": 5,
+    "name": "Rayes 940",
+    "description": "Macbook 205 model with high performance.",
+    "price": "$1000",
+    "inventoryDate": "24-08-2022"
+  },
+  {
+    "id": 6,
+    "name": "Lattitude",
+    "description": "Macbook 205 model with high performance.",
+    "price": "$1000",
+    "inventoryDate": "25-08-2022"
+  }
+]

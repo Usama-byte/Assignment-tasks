@@ -1,0 +1,41 @@
+.listing-table {
+  color: rgba(255, 255, 255, 0.836);
+  padding: 1rem 1rem;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+.flex-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  padding: 12px;
+}
+
+.head-wrapper {
+  font-size: 28px;
+  color: aliceblue;
+  text-align: center;
+  padding: 2rem;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: auto;
+}
+
+.input-field {
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.btn-wrapper {
+  width: 50%;
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin: auto;
+  cursor: pointer;
+}
